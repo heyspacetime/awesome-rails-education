@@ -1,25 +1,28 @@
 # awesome-rails
 Becoming a Ruby and Ruby on Rails developer for people who already know some backend and/or frontend stuff
 
-https://medium.com/ruby-on-rails/how-i-finally-learned-rails-95e9b832675b#.3cf9c5l69
-http://curriculum.railsbridge.org/ruby/
-http://guides.railsgirls.com/
-https://www.codementor.io/learn-ruby-on-rails-online?utm_source=bestprogramminglanguagefor&utm_medium=side-projects&utm_campaign=bestprogramminglanguagefor
-http://tutorials.jumpstartlab.com/
-http://rubyonrailstutor.github.io/
-https://code4startup.com/projects
-https://thinkster.io/
-http://www.opensourcerails.com/
-https://hackr.io/
-http://www.lugolabs.com/
-http://www.tutset.com/
-https://gorails.com/
-http://baserails.com
+- https://medium.com/ruby-on-rails/how-i-finally-learned-rails-95e9b832675b#.3cf9c5l69
+- http://curriculum.railsbridge.org/ruby/
+- http://guides.railsgirls.com/
+- https://www.codementor.io/learn-ruby-on-rails-online?utm_source=bestprogramminglanguagefor&utm_medium=side-projects&utm_campaign=bestprogramminglanguagefor
+- http://tutorials.jumpstartlab.com/
+- http://rubyonrailstutor.github.io/
+- https://code4startup.com/projects
+- https://thinkster.io/
+- http://www.opensourcerails.com/
+- https://hackr.io/
+- http://www.lugolabs.com/
+- http://www.tutset.com/
+- https://gorails.com/
+- http://baserails.com
 
-https://github.com/dreikanter/ruby-bookmarks
-https://github.com/hothero/awesome-rails-gem
-https://github.com/sindresorhus/awesome
-https://github.com/ekremkaraca/awesome-rails
+## Rails Lists
+- https://github.com/dreikanter/ruby-bookmarks
+- https://github.com/hothero/awesome-rails-gem
+- https://github.com/sindresorhus/awesome
+
+## Examples of Open Source Apps Built with Rails
+- https://github.com/ekremkaraca/awesome-rails
 
 
 ## Make a Resource

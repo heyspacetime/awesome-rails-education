@@ -40,3 +40,9 @@ This is the lightweight way to create a Resource without generating via Scaffold
 9. Add a link to create new resource `<%= link_to "New Post", new_post_path %>`
 10. Create `new.html.erb` view for resource
 11. Update all the resource Controller stuff
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Spacetime](http://heyspacetime.com) has waived all copyright and related or neighboring rights to this work.

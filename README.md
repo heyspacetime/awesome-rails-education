@@ -16,6 +16,10 @@ Becoming a Ruby and Ruby on Rails developer for people who already know some bac
 - https://gorails.com/
 - http://baserails.com
 
+## Rails Tasks & Features
+
+- [Creating Static Pages](http://blog.teamtreehouse.com/static-pages-ruby-rails)
+
 ## Rails Lists
 - https://github.com/dreikanter/ruby-bookmarks
 - https://github.com/hothero/awesome-rails-gem

@@ -40,6 +40,13 @@ This guide is for people who know some things already. If you're brand new to we
 - http://www.tutset.com/
 - https://gorails.com/
 - http://baserails.com
+- http://www.schneems.com/ut-rails/
+- [Reddit on Rails](https://github.com/schneems/reddit_on_rails)
+
+## Just Ruby
+
+- [Why's (Poignant) Guide to Ruby](http://poignant.guide/book/)
+- [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
 
 ## Rails Tasks & Features
 
@@ -49,6 +56,7 @@ This guide is for people who know some things already. If you're brand new to we
 - https://github.com/dreikanter/ruby-bookmarks
 - https://github.com/hothero/awesome-rails-gem
 - https://github.com/sindresorhus/awesome
+- [Real World Rails](https://github.com/eliotsykes/real-world-rails)
 
 ## Examples of Open Source Apps Built with Rails
 - https://github.com/ekremkaraca/awesome-rails

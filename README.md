@@ -3,15 +3,15 @@ Becoming a Ruby and Ruby on Rails developer for people who already know some dev
 
 ### The Best Way to Learn Rails
 
-The best way to learn Ruby on Rails if you have some experience in web development, but not necessarily programming or computer science, is through *project based learning*. Building practical app examples will help you understand how things work and what you can do with the knowledge you obtain. Yes, learning the fundamentals of a programming language, like variables, loops, conditionals, and all that other stuff, *is* good, but there is still a disconnect between the fundamentals and practical implementation.
+The best way to learn Ruby on Rails if you have some experience in web development, but not necessarily programming or computer science, is through *project based learning*. Building practical app examples will help you understand how things work and what you can do with the knowledge you obtain. Yes, learning the fundamentals of a programming language, like variables, loops, conditionals, and all that other stuff, *is* good, but there is still a disconnect between the fundamentals and practical implementation. Plus, you will start learning the fundamentals as you build real world apps.
 
 1. **Project based learning.** Choose classes and courses that focus on building practical apps.
 2. **Repetition.** Build a whole bunch of things! Starting off, opt for project based courses that build small apps and build a bunch. Doing so may seem repetitive (because it is) but will teach you the fundamentals of how any Ruby on Rails app is built from the ground up.
   * Tip: our suggestion is not to take some of the courses provided by the big name code schools. Not because they are not any good, but because the projects are HUGE and really extensive and overwhelming for a beginner. An example would be don't take a class that clones a big app like Facebook.
   * Also, as a beginner Ruby on Rails developer, you are going to mess up *a lot*. And Rails errors can be really cryptic and frustrating for beginners. That's why you **must** build small apps, because at some point you will hit a roadblock and you don't know how to continue. Would you prefer that to be on a course that takes 2 hours to complete? Or a course that clones Facebook and takes 12 hours? (speaking from experience over here!)
 3. **Stick to the tutorial.** Yeah, yeah, we know you are excited building a project based app following along with a tutorial, and you have some great ideas of how you can deviate from the tutorial and build something else, or modify this, or modify that, but... for the time being, don't. Stick to the tutorial verbatim. At least for the first go round.
-  * Dream: dreaming is great, and you really should dream big! Then go build and Rails Idea Logger app and keep track of all your ideas :)
-  * Stick in the mud: stick to the tutorials verbatim in the beginning. Why? Because learning this stuff is hard! And you *will mess stuff up* and if you deviate from tutorial you won't know how to get back on track. So, at least for the first few project based apps you build, follow it to the T.
+  * Dream: dreaming is great, and you really should dream big! Then go build a Rails Idea Logger app and keep track of all your ideas :)
+  * Stick in the mud: stick to the tutorials verbatim in the beginning. Why? Because learning this stuff is hard! And you *will mess stuff up* and if you deviate from tutorial you won't know how to get back on track. So, at least for the first few project based apps you build, follow it to a T.
 
 ### If you know nothing about web development this is not for you (no offense)
 

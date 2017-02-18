@@ -1,9 +1,15 @@
 # awesome-rails
-Becoming a Ruby and Ruby on Rails developer for people who already know some backend and/or frontend stuff
+Becoming a Ruby and Ruby on Rails developer for people who already know some developery things
 
-## Start here if you're brand new
+## Start here if you know nothing
 
-This guide is for people who know some things already. If you're brand new to web development, check out [Interneting Is Hard](https://internetingishard.com/) and then check out [Codecademy's beginner classes](https://www.codecademy.com/).
+This guide is for people who know some things already. If you're brand new to web development, check out [Interneting Is Hard](https://internetingishard.com/) and then check out [Codecademy's beginner classes](https://www.codecademy.com/) before diving into Ruby on Rails.
+
+## Getting Started with Rails
+
+- [Setup your Ruby on Rails environment](http://guides.railsgirls.com/install)
+- Start with the official [Ruby on Rails Guide Tutorial](http://guides.rubyonrails.org/getting_started.html)
+- Build a few [Rails app with Mackenzie Child](https://medium.com/ruby-on-rails/how-i-finally-learned-rails-95e9b832675b#.xkwboov9j)
 
 ## Tutorials
 

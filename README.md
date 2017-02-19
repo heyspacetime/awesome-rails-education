@@ -19,7 +19,9 @@ This guide is for people who know some things already. If you're brand new to we
 
 ## Getting Started with Rails
 
-1. [Setup your Ruby on Rails environment](http://guides.railsgirls.com/install)
+1. Setup your Ruby on Rails environment
+  * [Rails Girls Environment Setup](http://guides.railsgirls.com/install)
+  * [Jumpstart's Environment Setup Guide](http://tutorials.jumpstartlab.com/topics/environment/environment.html)
 1. Start with the official [Ruby on Rails Guide Tutorial](http://guides.rubyonrails.org/getting_started.html)
 1. [Create a simple app with Leo Trieu](https://code4startup.com/projects/hero-learn-ruby-on-rails-and-wistia-apis-by-cloning-code4startup-version-newbies)
 1. Build a few [Rails apps with Mackenzie Child](https://medium.com/ruby-on-rails/how-i-finally-learned-rails-95e9b832675b#.xkwboov9j)

@@ -47,6 +47,7 @@ This guide is for people who know some things already. If you're brand new to we
 
 - [Why's (Poignant) Guide to Ruby](http://poignant.guide/book/)
 - [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
+- [RubyMonk](https://rubymonk.com/)
 
 ## Rails Tasks & Features
 
@@ -61,6 +62,8 @@ This guide is for people who know some things already. If you're brand new to we
 ## Examples of Open Source Apps Built with Rails
 - https://github.com/ekremkaraca/awesome-rails
 
+## Podcasts
+- [Rails5 Podcast](https://ruby5.codeschool.com/)
 
 ## Make a Resource
 

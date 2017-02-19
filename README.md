@@ -58,6 +58,7 @@ This guide is for people who know some things already. If you're brand new to we
 - https://github.com/hothero/awesome-rails-gem
 - https://github.com/sindresorhus/awesome
 - [Real World Rails](https://github.com/eliotsykes/real-world-rails)
+- [RubyTapas](https://www.rubytapas.com/)
 
 ## Examples of Open Source Apps Built with Rails
 - https://github.com/ekremkaraca/awesome-rails

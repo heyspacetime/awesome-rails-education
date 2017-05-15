@@ -5,8 +5,8 @@
 <br>
 <br>
 
-<p align="center" style="max-width:40em; margin: 0 auto;">
-	<b>✨ Becoming a Ruby and Ruby on Rails developer for people who already know some developery things. A loving guide continually a work-in-progress ✨</b>
+<p align="center">
+	<b>Becoming a Ruby and Ruby on Rails developer for people who already know some developery things. A loving guide continually a work-in-progress</b>
 </p>
 
 <br>

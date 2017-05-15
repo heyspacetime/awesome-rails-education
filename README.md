@@ -1,4 +1,4 @@
-![Ruby gem](images/ruby-icon.png)
+![Awesome Rails Education](images/ruby-banner.png)
 
 # awesome-rails-education
 

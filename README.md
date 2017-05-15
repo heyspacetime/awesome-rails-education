@@ -6,16 +6,12 @@
 <br>
 
 <p align="center">
-	<b>✨ Everything you need to get your head smart ✨</b>
+	<b>✨ Becoming a Ruby and Ruby on Rails developer for people who already know some developery things. A loving guide continually a work-in-progress ✨</b>
 </p>
 
 <br>
 
 <hr>
-
-# awesome-rails-education
-
-Becoming a Ruby and Ruby on Rails developer for people who already know some developery things. A loving guide continually a work-ind-progress.
 
 ### The Best Way to Learn Rails
 

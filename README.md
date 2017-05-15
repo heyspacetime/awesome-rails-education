@@ -1,4 +1,17 @@
-![Awesome Rails Education](images/ruby-banner.png)
+<h1>
+  <img src="images/ruby-banner.png">
+</h1>
+
+<br>
+<br>
+
+<p align="center">
+	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
+</p>
+
+<br>
+
+<hr>
 
 # awesome-rails-education
 

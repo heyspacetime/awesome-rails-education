@@ -1,3 +1,5 @@
+![Ruby gem](images/ruby-icon.png)
+
 # awesome-rails-education
 
 Becoming a Ruby and Ruby on Rails developer for people who already know some developery things. A loving guide continually a work-ind-progress.

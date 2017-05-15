@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
+	<b>✨ Everything you need to get your head smart ✨</b>
 </p>
 
 <br>

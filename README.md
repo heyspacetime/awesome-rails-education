@@ -53,6 +53,9 @@ This guide is for people who know some things already. If you're brand new to we
 - [AirBnB Clone](https://code4startup.com/projects/airalien-clone-airbnb-with-ruby-on-rails-bootstrap-jquery-and-paypal) - Paid
 - [Reddit Clone](https://github.com/schneems/reddit_on_rails)
 - [Medium Clone](http://www.lugolabs.com/articles/95-rewrite-medium-in-ruby-on-rails-part-1-the-setup)
+- [Instagram Clone](https://www.devwalks.com/lets-build-instagram-in-rails-part-1/)
+- [Twitter Clone](https://code.tutsplus.com/articles/building-ribbit-in-rails--net-29116)
+- [Craigslist Clone](https://www.thinkful.com/learn/ruby-on-rails-tutorial/)
 
 ## Tutorials
 

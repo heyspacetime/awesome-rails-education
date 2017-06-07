@@ -38,6 +38,19 @@ This guide is for people who know some things already. If you're brand new to we
 1. [Create a simple app with Leo Trieu](https://code4startup.com/projects/hero-learn-ruby-on-rails-and-wistia-apis-by-cloning-code4startup-version-newbies)
 1. Build a few [Rails apps with Mackenzie Child](https://medium.com/ruby-on-rails/how-i-finally-learned-rails-95e9b832675b#.xkwboov9j)
 
+## Product Based Tutorials
+- [Encryptor](http://tutorials.jumpstartlab.com/projects/encryptor.html)
+- [Event Manager](http://tutorials.jumpstartlab.com/projects/eventmanager.html)
+- [MicroBlogger](http://tutorials.jumpstartlab.com/projects/microblogger.html)
+- [Drawing Program](http://tutorials.jumpstartlab.com/projects/process_artist.html)
+- [Number Guessing Game](http://tutorials.jumpstartlab.com/projects/web_guesser.html)
+- [Idea Box](http://tutorials.jumpstartlab.com/projects/idea_box.html)
+- [Advanced Blog](http://tutorials.jumpstartlab.com/projects/blogger.html#i6:-extras)
+- [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html#ei7:-adding-ownership)
+- [Merchant](http://tutorials.jumpstartlab.com/projects/merchant.html)
+- [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html)
+- []()
+
 ## Tutorials
 
 - https://medium.com/ruby-on-rails/how-i-finally-learned-rails-95e9b832675b#.3cf9c5l69

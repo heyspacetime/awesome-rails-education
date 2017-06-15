@@ -39,6 +39,8 @@ This guide is for people who know some things already. If you're brand new to we
 1. Build a few [Rails apps with Mackenzie Child](https://medium.com/ruby-on-rails/how-i-finally-learned-rails-95e9b832675b#.xkwboov9j)
 
 ## Product Based Tutorials
+
+**Jumpstart Lab**
 - [Encryptor](http://tutorials.jumpstartlab.com/projects/encryptor.html)
 - [Event Manager](http://tutorials.jumpstartlab.com/projects/eventmanager.html)
 - [MicroBlogger](http://tutorials.jumpstartlab.com/projects/microblogger.html)
@@ -49,6 +51,20 @@ This guide is for people who know some things already. If you're brand new to we
 - [Contact Manager](http://tutorials.jumpstartlab.com/projects/contact_manager.html#ei7:-adding-ownership)
 - [Merchant](http://tutorials.jumpstartlab.com/projects/merchant.html)
 - [Traffic Spy](http://tutorials.jumpstartlab.com/projects/traffic_spy.html)
+
+**Mackenzie Child**
+- [1. Reddit/Hacker News Clone](https://www.youtube.com/watch?v=7-1HCWbu7iU&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=1)
+- [2. Build a Blog](https://www.youtube.com/watch?v=BI_VnnOLSKY&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=2)
+- [3. Build a Recipe Box](https://www.youtube.com/watch?v=QhdzE1yNs-0&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=3)
+- [4. Build a Pinterest Clone](https://www.youtube.com/watch?v=abcnfFS_DS8&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=4)
+- [5. Build a Movie Review App](https://www.youtube.com/watch?v=0DR5JLZ2Qgg&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=5)
+- [6. Build a Todo App](https://www.youtube.com/watch?v=fd1Vn-Wvy2w&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=6)
+- [7. Build a Jobs Board](https://www.youtube.com/watch?v=814gCeOpM4o&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=7)
+- [8. Build a Workout Log App](https://www.youtube.com/watch?v=2_Lbj3slZUY&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=8)
+- [9. Build a Wikipedia Clone](https://www.youtube.com/watch?v=9zNouhuKaVs&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=9)
+- [10. Build a Forum](https://www.youtube.com/watch?v=rTP1eMfI5Bs&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=10)
+- [11. Build a Notebook](https://www.youtube.com/watch?v=bDbPiaVl2g4&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=11)
+- [12. Build a Dribbble Clone](https://www.youtube.com/watch?v=70Pu_28yvdI&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=12)
 - [Code School](https://code4startup.com/projects/hero-learn-ruby-on-rails-and-full-stack-by-cloning-code4startup-version-pro) - Paid
 - [AirBnB Clone](https://code4startup.com/projects/airalien-clone-airbnb-with-ruby-on-rails-bootstrap-jquery-and-paypal) - Paid
 - [Reddit Clone](https://github.com/schneems/reddit_on_rails)

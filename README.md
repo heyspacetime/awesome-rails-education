@@ -71,13 +71,13 @@ This guide is for people who know some things already. If you're brand new to we
 - [AirBnB Clone](https://code4startup.com/projects/airalien-clone-airbnb-with-ruby-on-rails-bootstrap-jquery-and-paypal) - Paid
 
 **Others**
+- [Build a SaaS App with Rails](https://www.youtube.com/watch?v=dKe2sP-NAxQ&list=PLY_TsbWXHC0IaIWdnQwkLRdg9pXsyY_pW)
 - [Reddit Clone](https://github.com/schneems/reddit_on_rails)
 - [Medium Clone](http://www.lugolabs.com/articles/95-rewrite-medium-in-ruby-on-rails-part-1-the-setup)
 - [Instagram Clone](https://www.devwalks.com/lets-build-instagram-in-rails-part-1/)
 - [Twitter Clone](https://code.tutsplus.com/articles/building-ribbit-in-rails--net-29116)
 - [Craigslist Clone](https://www.thinkful.com/learn/ruby-on-rails-tutorial/)
 - [Invoice App](https://www.youtube.com/watch?v=GkAo6c0J7G4&list=PLSwFcd1II_m9EWlrSJhPLUOoeXbpEChis)
-- [Publishing App using Microservices](https://blog.codeship.com/architecting-rails-apps-as-microservices/)
 
 ## Tutorial Sites
 

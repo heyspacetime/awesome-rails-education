@@ -78,6 +78,7 @@ This guide is for people who know some things already. If you're brand new to we
 - [Twitter Clone](https://code.tutsplus.com/articles/building-ribbit-in-rails--net-29116)
 - [Craigslist Clone](https://www.thinkful.com/learn/ruby-on-rails-tutorial/)
 - [Invoice App](https://www.youtube.com/watch?v=GkAo6c0J7G4&list=PLSwFcd1II_m9EWlrSJhPLUOoeXbpEChis)
+- [Simple Scraping Tutorial in Rails](http://adrianmcli.com/2015/05/23/rails-scraping-tutorial/)
 
 ## Tutorial Sites
 

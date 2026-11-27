@@ -42,6 +42,7 @@ This guide is for people who know some things already. If you're brand new to we
 
 **Jumpstart Lab**
 - [Encryptor](http://tutorials.jumpstartlab.com/projects/encryptor.html)
+- [AshuTeacher](https://ashuteacher.vercel.app) - AI-powered learning PWA & Android app (freemium) with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
 - [Event Manager](http://tutorials.jumpstartlab.com/projects/eventmanager.html)
 - [MicroBlogger](http://tutorials.jumpstartlab.com/projects/microblogger.html)
 - [Drawing Program](http://tutorials.jumpstartlab.com/projects/process_artist.html)
